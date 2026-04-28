@@ -5,9 +5,9 @@
 - 👯 编程语言
 C python
 - 🤔 科研与开发框架
-Git Linux
+Git Linux Docker
 VScode
 - 💬 科研项目
 - 📫 联系方式
-哈工深邮箱-2025310619@stu.hit.edu.cn
-QQ-641648638
+哈工深邮箱  2025310619@stu.hit.edu.cn
+QQ  641648638
